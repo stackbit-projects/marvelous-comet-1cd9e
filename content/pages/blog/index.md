@@ -11,8 +11,8 @@ sections:
     title: Blog
     posts:
       - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
+      - content/pages/blog/post-two.md
     styles:
       title:
         textAlign: center
