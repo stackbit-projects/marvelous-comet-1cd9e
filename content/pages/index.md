@@ -63,7 +63,7 @@ sections:
     type: FeaturedPeopleSection
   - elementId: contact-form
     colors: colors-c
-    width: wide
+    width: full
     height: tall
     contentWidth: large
     contentAlignHoriz: center
