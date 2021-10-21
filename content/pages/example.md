@@ -69,7 +69,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    contentWidth: large
+    contentWidth: small
   - type: CtaSection
     colors: colors-h
     width: wide
