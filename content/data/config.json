@@ -11,7 +11,8 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/Sakanaya-df72f800.png",
-            "altText": "Logo"
+            "altText": "Logo",
+            "opacity": 49
         },
         "primaryLinks": [
             {
