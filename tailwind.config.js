@@ -13,7 +13,9 @@ module.exports = {
     darkMode: false,
     theme: {
         extend: {
-            ...themeStyle
+            fontFamily: {
+				festive: ['"Festive"', 'sans-serif']
+			}
         }
     },
     variants: {
