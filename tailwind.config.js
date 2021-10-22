@@ -14,7 +14,7 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-				festive: ['"Festive"', 'sans-serif']
+				festive: ['"rakkas"', 'sans-serif']
 			}
         }
     },
