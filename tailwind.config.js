@@ -13,16 +13,7 @@ module.exports = {
     darkMode: false,
     theme: {
         extend: {
-            module.exports = {
-	// ...
-	theme: {
-		extend: {
-			fontFamily: {
-				festive: ['"Festive"', 'sans-serif']
-			}
-		}
-	}
-}
+            
             ...themeStyle
         }
     },
