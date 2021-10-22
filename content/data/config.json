@@ -10,7 +10,7 @@
         "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/Sakanaya-df72f800.png",
+            "url": "/images/Sakanaya.svg",
             "altText": "Logo",
             "opacity": 49
         },
