@@ -12,9 +12,7 @@ module.exports = {
     },
     darkMode: false,
     theme: {
-        extend: {fontFamily: {
-				festive: ['"rakkas"', 'sans-serif']
-			}
+        extend: {
             ...themeStyle
         }
     },
